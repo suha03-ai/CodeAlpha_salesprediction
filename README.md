@@ -17,7 +17,7 @@ This project predicts California house prices using Machine Learning.
 ## 🤖 Models Tried
 | Model | R2 Score |
 |-------|----------|
-| Linear Regression | 0.51 |
+| Linear Regression | 0.63 |
 | Random Forest | **0.73** |
 
 ## 🚀 How to Run
